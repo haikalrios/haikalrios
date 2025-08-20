@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Haikal Rios's github stats](https://github-readme-stats.vercel.app/api?username=haikalrios&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Haikal Rios's github stats](https://github-readme-stats.vercel.app/api?username=haikalrios&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haikalrios&langs_count=10&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
